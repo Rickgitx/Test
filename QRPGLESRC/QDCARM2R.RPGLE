@@ -1,5 +1,6 @@
      FCARMST    IP   E             DISK
      FCARMST2P  O    E             DISK
+     FMEMBER    IF   E             DISK
       *
      D                 DS
      D  addr1                  1     30
